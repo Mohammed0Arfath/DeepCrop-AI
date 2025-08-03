@@ -1,5 +1,3 @@
-Of course. Based on the detailed information in your hackathon submission document (`AgriThon 2.pdf`), here is a professional and comprehensive README file. It combines the structure of your draft with the specific details, code, and results from your report to create a polished and highly relevant document.
-
 -----
 
 # DeepCrop AI 1.0: Multimodal Crop Disease and Insect Detection
